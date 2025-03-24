@@ -1,0 +1,27 @@
+.scoreContainer{
+    border: 1px solid black;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.scoreStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 28px;
+    color: #EC7FA9;
+}
+
+h4{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 26px;
+    color: #AC1754;
+    font-weight: 800;
+}

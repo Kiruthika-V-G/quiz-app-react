@@ -1,0 +1,34 @@
+.questionContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.question{
+    border: 1px solid black;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.styleh2{
+    color: #EC7FA9;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 28px;
+}
+
+.styleh4{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 26px;
+    color: #FFB8E0;
+}
+
+.submitButton{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FFFECE;
+    border-radius: 10px;
+    border : 1px solid black;
+}
